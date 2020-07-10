@@ -1,6 +1,6 @@
 # USA Capital City Wikipedia Crawler
 
-Crawler reads through table containing US captials and collects given information from each city. All data is added to a Pandas Dataframe and exported to a CSV file for distribution.
+Crawler reads through table containing US capitals and collects given information from each city. All data is added to a Pandas Dataframe and exported to a CSV file for distribution.
 
 This program was created to teach students how to create a crawler. First, they learn how to scrape a table from a given page and add informaton to a dataframe, then they advance to a crawler accessing each capital city in America listed on Wikipedia. There are comments in the code to help describe what is being asked of them and how to do it.
 
